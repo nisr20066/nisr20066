@@ -7,8 +7,8 @@ I build interfaces for the web, focused on the Vue 3 ecosystem and component arc
 | | |
 | --- | --- |
 | Focus | Vue 3, Pinia, Vue Router, Vite |
-| Also | JavaScript ES6+, TypeScript, HTML5, CSS3, Tailwind CSS |
-| Backend | Node.js, Express, REST |
+| Also | JavaScript ES6+, TypeScript, HTML5, CSS3, Tailwind CSS, React js |
+| Backend | Node.js, Express, REST  |
 | Security | Penetration testing, OWASP Top 10, Burp Suite, Nmap, Wireshark, SQLmap, Kali Linux |
 
 ### Projects
