@@ -14,7 +14,6 @@ I build interfaces for the web, focused on the Vue 3 ecosystem and component arc
 ### Projects
 
 - **Event Management System** - event management platform. Vue 3 + Pinia + Vue Router with a REST backend, separate organizer and admin areas.
-- **EVAR** - apparel storefront. Vue SPA on top of an Express API, with an admin dashboard for catalog, orders, and media. Clothes brand project, source not public.
 - **Drag & Drop** and **ZigZag Hover Ball** - browser games written in plain JavaScript.
 
 ### Live demos
